@@ -47,6 +47,11 @@ span.blockspam {
 		border-radius: 16px;
 	}
 
+  .project-content
+  {
+    width: 100%;
+  }
+
 }
 
 .rounded
